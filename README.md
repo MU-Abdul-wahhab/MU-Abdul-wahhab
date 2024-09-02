@@ -1,4 +1,4 @@
-## Hi there, I'm Abdul Malik 👋
+## Hi there, I'm Abdul Wahhab 👋
 
 As a dedicated Software Engineer Undergraduate with a BSc (Hons) in Software Engineering, I possess a strong foundation in backend development and API design. My experience at Synertech Ventures has honed my skills in Java 🚀, Java-based frameworks, and Node.js 🚀. I am passionate about solving complex problems and creating efficient, scalable solutions 🌐. My technical proficiency 💻 and commitment to continuous learning 📚 enable me to deliver high-quality software solutions, driving innovation and excellence in every project I undertake 🌟🔧.
 
