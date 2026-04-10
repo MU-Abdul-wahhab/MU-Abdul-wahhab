@@ -26,7 +26,8 @@ Let's connect if you're working on scalable systems, cloud infrastructure, or ba
 - Node js
 - Express js
 - Mongo DB
-- Learning: Spring Boot, Nest Js
+- Spring Boot
+- Nest Js
 
 ### Languages and Tools:
 
