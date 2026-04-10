@@ -1,6 +1,18 @@
 ## Hi there, I'm Abdul Wahhab 👋
 
-As a dedicated Software Engineer Undergraduate with a BSc (Hons) in Software Engineering, I possess a strong foundation in backend development and API design. My experience at Synertech Ventures has honed my skills in Java 🚀, Java-based frameworks, and Node.js 🚀. I am passionate about solving complex problems and creating efficient, scalable solutions 🌐. My technical proficiency 💻 and commitment to continuous learning 📚 enable me to deliver high-quality software solutions, driving innovation and excellence in every project I undertake 🌟🔧.
+🎓 Software Engineering undergraduate (BSc Hons, Birmingham City University) with a strong foundation in backend development, RESTful API design, and Java-based systems.
+
+💼 Former Software Developer Trainee at Synertech Ventures, where I built real-world experience with Spring Boot, React JS, and Agile/Scrum workflows shipping features, collaborating across teams, and learning what it means to write production-grade code.
+
+⚙️ For me, software engineering goes beyond writing code. It's about thinking in systems, understanding architecture, breaking complex problems into scalable solutions, and knowing why a design decision matters as much as how to implement it.
+
+🚀 My career path is deliberate: Backend Engineer → DevOps Engineer → Cloud Architect. I'm actively building toward that  studying Linux internals, cloud infrastructure, containerization, CI/CD pipelines, and microservices design alongside my degree.
+
+🌐 I'm drawn to the intersection of backend engineering and infrastructure the layer where code meets deployment, where systems meet scale, and where engineering decisions have real business impact.
+
+📚 Continuous learner. Currently deepening skills in NestJS, Docker, AWS, and system design. Always building. Always shipping.
+
+Let's connect if you're working on scalable systems, cloud infrastructure, or backend architecture — I'm always up for a conversation.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MU-Abdul-wahhab&color=blue)
 
